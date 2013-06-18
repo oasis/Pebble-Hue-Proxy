@@ -1,7 +1,7 @@
 Pebble Hue Proxy 
 ================
 
-This is a simple proof of concept PHP script to relay HTTP Requests from a Pebble to your Hue Bridge using the unofficial Pebble iOS companion app [Smartwatch+](smartwatchplusapp.appspot.com/‎)
+This is a simple proof of concept PHP script to relay HTTP Requests from a Pebble to your Hue Bridge using the unofficial Pebble iOS companion app [Smartwatch+](http://smartwatchplusapp.appspot.com/‎)
 
 Getting Started
 ---------------
